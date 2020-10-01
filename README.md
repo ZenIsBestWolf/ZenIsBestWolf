@@ -9,4 +9,7 @@ I've got some sort of experience with the following:
 - Java
 - Python
 - JavaScript (NodeJS)
-- Lua (RBLX Lua from like ages ago)
+
+## Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenisbestwolf)](https://github.com/anuraghazra/github-readme-stats)
