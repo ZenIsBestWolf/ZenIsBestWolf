@@ -1,6 +1,6 @@
-# Zen (ZenIsBestWolf) Wolf
+# Zen (ZenIsBestWolf) Dignan
 
-Hi, my name here on the internet is Zen. I am a 18 year old Computer Science student in the US.
+Hi, my name here on the internet is Zen. I am a 19 year old Computer Science student in the US.
 
 I do not keep this very up to date. Check out [my website](https://zen.gay/) for more up to date info, but even that can be outdated.
 
