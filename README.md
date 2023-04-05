@@ -2,7 +2,8 @@
 
 Hi, my name is Zen. I am a 19 year old Computer Science student in the US.
 
-I do not keep this very up to date. Check out [my website](https://zen.gay/) for more up to date info, but even that can be outdated.
+I have a [website](https://zen.gay/).
+I don't have many projects, I'm still learning and will begin working on things soon.
 
 ## Stuff
 
