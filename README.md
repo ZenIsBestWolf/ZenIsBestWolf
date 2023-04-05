@@ -20,6 +20,7 @@ I do not keep this very up to date. Check out [my website](https://zen.gay/) for
 [nodejs]: https://nodejs.org/
 [adobexd]: https://www.adobe.com/products/xd.html
 [ubuntu]: https://ubuntu.com/
+[jetbrains]: https://www.jetbrains.com/
 
 I've got some sort of experience with the following:
 <br />
@@ -33,6 +34,7 @@ I've got some sort of experience with the following:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>][nodejs]
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="Adobe XD" width="40" height="40"/>][adobexd]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>][jetbrains]
 
 ## Stats
 
