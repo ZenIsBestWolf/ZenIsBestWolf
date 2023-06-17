@@ -1,13 +1,13 @@
-# Zen (ZenIsBestWolf) Dignan
+# Hi, I'm Zen!
 
-Hi, my name is Zen. I am a 19 year old Computer Science student in the US.
+I'm a 19 year old Computer Science student in the US, and I'm studying at [WPI](https://wpi.edu/).
 
 I have a [website](https://zen.gay/).
 I don't have many projects, I'm still learning and will begin working on things soon.
 
 ## Stuff
 
-<!-- Stolen from https://github.com/Banakin/Banakin -->
+<!-- Stolen (with love) from https://github.com/Banakin/Banakin -->
 <!-- Languages -->
 [javascript]: https://en.wikipedia.org/wiki/JavaScript
 [html]: https://en.wikipedia.org/wiki/HTML
