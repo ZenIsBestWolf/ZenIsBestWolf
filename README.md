@@ -37,6 +37,6 @@ I've got some sort of experience with the following:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>][ubuntu]
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="jetbrains" width="40" height="40"/>][jetbrains]
 
-## Stats
+<!-- ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenisbestwolf)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenisbestwolf)](https://github.com/anuraghazra/github-readme-stats) -->
