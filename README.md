@@ -1,6 +1,6 @@
 # Hi, I'm Zen!
 
-I'm a non-binary 20 year old CS major and "Wolf of All Trades".
+I'm a non-binary 21 year old CS major and "Wolf of All Trades".
 
 - 🎓 I'm studying at [WPI](https://wpi.edu/).
 - 💻 I'm a software engineer (and more) at [ConCat](https://concat.app/).
